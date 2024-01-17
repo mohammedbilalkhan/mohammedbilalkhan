@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbilalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbilalkhan" /> </p>
 
-- 🔭 I’m currently working on **Detecting potholes and cracks from images using Computer Vision**
+- 🔭 I’m currently working on **Detection of potholes and cracks from images using Computer Vision**
 
 - 🌱 I’m currently learning **Artificial Intelligence with Machine Learning.**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects.**
+- 👯 I’m looking to collaborate on **Data Analysis and Web Automation Testing projects.**
 
 - 🤝 I’m looking for help with **Image Algorithms.**
 
